@@ -1,8 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\JavaProject\\connectivity-samples\\BluetoothChat\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "D:\\JavaProject\\duplicate\\duplicate-two\\BluetoothChat\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
+                {
+                    "source": "D:\\JavaProject\\duplicate\\duplicate-two\\BluetoothChat\\Application\\src\\main\\res\\values-sw600dp\\template-styles.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "23",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "267"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "747",
+                        "endLines": "16",
+                        "endColumns": "12",
+                        "endOffsets": "987"
+                    }
+                },
                 {
                     "source": "C:\\Users\\jkniaziii\\.gradle\\caches\\transforms-2\\files-2.1\\54448c056128a2c935b0bb4d9a555ae7\\appcompat-1.1.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
@@ -14,13 +33,13 @@
                     }
                 },
                 {
-                    "source": "D:\\JavaProject\\connectivity-samples\\BluetoothChat\\Application\\src\\main\\res\\values-sw600dp\\template-dimens.xml",
+                    "source": "D:\\JavaProject\\duplicate\\duplicate-two\\BluetoothChat\\Application\\src\\main\\res\\values-sw600dp\\template-dimens.xml",
                     "from": {
-                        "startLines": "20,21",
+                        "startLines": "6,7",
                         "startColumns": "4,4",
-                        "startOffsets": "676,745",
+                        "startOffsets": "60,129",
                         "endColumns": "67,67",
-                        "endOffsets": "739,808"
+                        "endOffsets": "123,192"
                     },
                     "to": {
                         "startLines": "10,11",
@@ -28,25 +47,6 @@
                         "startOffsets": "611,679",
                         "endColumns": "67,67",
                         "endOffsets": "674,742"
-                    }
-                },
-                {
-                    "source": "D:\\JavaProject\\connectivity-samples\\BluetoothChat\\Application\\src\\main\\res\\values-sw600dp\\template-styles.xml",
-                    "from": {
-                        "startLines": "18",
-                        "startColumns": "4",
-                        "startOffsets": "639",
-                        "endLines": "22",
-                        "endColumns": "12",
-                        "endOffsets": "883"
-                    },
-                    "to": {
-                        "startLines": "12",
-                        "startColumns": "4",
-                        "startOffsets": "747",
-                        "endLines": "16",
-                        "endColumns": "12",
-                        "endOffsets": "987"
                     }
                 }
             ]
