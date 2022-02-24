@@ -6,8 +6,10 @@
         <entry key="..\:/JavaProject/duplicate/duplicate-two/BluetoothChat/Application/src/main/res/layout/activity_device_list.xml" value="0.1" />
         <entry key="..\:/JavaProject/duplicate/duplicate-two/BluetoothChat/Application/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/JavaProject/duplicate/duplicate-two/BluetoothChat/Application/src/main/res/layout/device_name.xml" value="0.1" />
-        <entry key="..\:/JavaProject/duplicate/duplicate-two/BluetoothChat/Application/src/main/res/layout/fragment_bluetooth_chat.xml" value="0.1" />
+        <entry key="..\:/JavaProject/duplicate/duplicate-two/BluetoothChat/Application/src/main/res/layout/fragment_bluetooth_chat.xml" value="0.12" />
         <entry key="..\:/JavaProject/duplicate/duplicate-two/BluetoothChat/Application/src/main/res/layout/message.xml" value="0.1" />
+        <entry key="..\:/JavaProject/duplicate/duplicate-two/BluetoothChat/Application/src/main/res/menu/bluetooth_chat.xml" value="0.1" />
+        <entry key="..\:/JavaProject/duplicate/duplicate-two/BluetoothChat/Application/src/main/res/menu/main.xml" value="0.1" />
       </map>
     </option>
   </component>
