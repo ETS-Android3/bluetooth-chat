@@ -4,11 +4,15 @@
 
     <!-- Activity themes -->
 
-    <style name="Theme.Base" parent="android:Theme.Light" />
+    <style name="AppTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+    </style>
 
-    <style name="Theme.Sample" parent="Theme.Base" />
+    <style name="MyActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">#128C7E</item>
+    </style>
 
-    <style name="AppTheme" parent="Theme.Sample" />
+
     <!-- Widget styling -->
 
     <style name="Widget" />
