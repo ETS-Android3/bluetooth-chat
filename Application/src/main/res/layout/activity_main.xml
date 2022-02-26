@@ -10,12 +10,12 @@
           android:id="@+id/sample_output"
           android:layout_width="match_parent"
           android:layout_height="0px"
-          android:layout_weight="1">
+          android:layout_weight="0">
 
         <ScrollView
               style="@style/Widget.SampleMessageTile"
               android:layout_width="match_parent"
-              android:layout_height="match_parent">
+              android:layout_height="10px">
 
             <TextView
                   style="@style/Widget.SampleMessage"
