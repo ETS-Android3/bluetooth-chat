@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/JavaProject/duplicate/duplicate-two/BluetoothChat/Application/src/main/res/drawable-xhdpi/input_background.xml" value="0.11614583333333334" />
+        <entry key="..\:/JavaProject/duplicate/duplicate-two/BluetoothChat/Application/src/main/res/drawable/button_background.xml" value="0.10885416666666667" />
+        <entry key="..\:/JavaProject/duplicate/duplicate-two/BluetoothChat/Application/src/main/res/drawable/ic_send_background.xml" value="0.11614583333333334" />
+        <entry key="..\:/JavaProject/duplicate/duplicate-two/BluetoothChat/Application/src/main/res/drawable/ic_send_foreground.xml" value="0.11614583333333334" />
+        <entry key="..\:/JavaProject/duplicate/duplicate-two/BluetoothChat/Application/src/main/res/layout-w720dp/activity_main.xml" value="0.15405405405405406" />
+        <entry key="..\:/JavaProject/duplicate/duplicate-two/BluetoothChat/Application/src/main/res/layout/activity_device_list.xml" value="0.1" />
+        <entry key="..\:/JavaProject/duplicate/duplicate-two/BluetoothChat/Application/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/JavaProject/duplicate/duplicate-two/BluetoothChat/Application/src/main/res/layout/device_name.xml" value="0.1" />
+        <entry key="..\:/JavaProject/duplicate/duplicate-two/BluetoothChat/Application/src/main/res/layout/fragment_bluetooth_chat.xml" value="0.25" />
+        <entry key="..\:/JavaProject/duplicate/duplicate-two/BluetoothChat/Application/src/main/res/layout/message.xml" value="0.5" />
+        <entry key="..\:/JavaProject/duplicate/duplicate-two/BluetoothChat/Application/src/main/res/menu/bluetooth_chat.xml" value="0.1" />
+        <entry key="..\:/JavaProject/duplicate/duplicate-two/BluetoothChat/Application/src/main/res/menu/main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

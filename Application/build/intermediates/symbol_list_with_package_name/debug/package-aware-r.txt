@@ -606,8 +606,13 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable button_background
+drawable chat_background
 drawable ic_action_device_access_bluetooth_searching
 drawable ic_launcher
+drawable ic_send_background
+drawable ic_send_foreground
+drawable input_background
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -862,6 +867,8 @@ layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 menu bluetooth_chat
 menu main
+mipmap ic_send
+mipmap ic_send_round
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -1073,6 +1080,7 @@ style Base_Widget_AppCompat_TextView
 style Base_Widget_AppCompat_TextView_SpinnerItem
 style Base_Widget_AppCompat_Toolbar
 style Base_Widget_AppCompat_Toolbar_Button_Navigation
+style MyActionBar
 style Platform_AppCompat
 style Platform_AppCompat_Light
 style Platform_ThemeOverlay_AppCompat
@@ -1178,7 +1186,6 @@ style Theme_AppCompat_Light_DialogWhenLarge
 style Theme_AppCompat_Light_NoActionBar
 style Theme_AppCompat_NoActionBar
 style Theme_Base
-style Theme_Sample
 style ThemeOverlay_AppCompat
 style ThemeOverlay_AppCompat_ActionBar
 style ThemeOverlay_AppCompat_Dark

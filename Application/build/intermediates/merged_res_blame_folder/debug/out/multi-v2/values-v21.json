@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\JavaProject\\connectivity-samples\\BluetoothChat\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "D:\\JavaProject\\duplicate\\duplicate-two\\BluetoothChat\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\jkniaziii\\.gradle\\caches\\transforms-2\\files-2.1\\54448c056128a2c935b0bb4d9a555ae7\\appcompat-1.1.0\\res\\values-v21\\values-v21.xml",
@@ -23,14 +23,14 @@
                     }
                 },
                 {
-                    "source": "D:\\JavaProject\\connectivity-samples\\BluetoothChat\\Application\\src\\main\\res\\values-v21\\base-template-styles.xml",
+                    "source": "D:\\JavaProject\\duplicate\\duplicate-two\\BluetoothChat\\Application\\src\\main\\res\\values-v21\\base-template-styles.xml",
                     "from": {
-                        "startLines": "20",
+                        "startLines": "6",
                         "startColumns": "4",
-                        "startOffsets": "697",
-                        "endLines": "21",
+                        "startOffsets": "93",
+                        "endLines": "7",
                         "endColumns": "12",
-                        "endOffsets": "774"
+                        "endOffsets": "170"
                     },
                     "to": {
                         "startLines": "268",

@@ -1,28 +1,7 @@
-/*
- * Copyright (C) 2013 The Android Open Source Project
- *
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *
- *      http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
- */
+
 package com.example.android.common.logger;
 
-/**
- * Helper class for a list (or tree) of LoggerNodes.
- *
- * <p>When this is set as the head of the list,
- * an instance of it can function as a drop-in replacement for {@link android.util.Log}.
- * Most of the methods in this class server only to map a method call in Log to its equivalent
- * in LogNode.</p>
- */
+
 public class Log {
     // Grabbing the native values from Android's native logging facilities,
     // to make for easy migration and interop.

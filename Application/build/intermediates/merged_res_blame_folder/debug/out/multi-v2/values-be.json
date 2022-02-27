@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\JavaProject\\connectivity-samples\\BluetoothChat\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-be\\values-be.xml",
+            "outputFile": "D:\\JavaProject\\duplicate\\duplicate-two\\BluetoothChat\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-be\\values-be.xml",
             "map": [
                 {
                     "source": "C:\\Users\\jkniaziii\\.gradle\\caches\\transforms-2\\files-2.1\\476e418bae6a1646436b14a2350f3166\\core-1.1.0\\res\\values-be\\values-be.xml",
