@@ -27,7 +27,7 @@
             android:layout_margin="10px"
             android:layout_weight="1"
             android:background="@drawable/button_background"
-            android:paddingRight="10px"
+            android:paddingHorizontal="30px"
             android:textColor="#ffff" />
 
         <Button
